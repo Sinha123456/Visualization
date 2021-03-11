@@ -28,6 +28,10 @@ density estimate, something like a smoothed histogram.
 A box plot is another way of showing the relationship between a numeric variable and a categorical variable. Compared to the violin plot, 
 the box plot leans more on the summarization of the data.
 
+## Cluster Plot
+
+To depict the relationship between two categorical variables, In a clustered bar chart, bars are organized into clusters based on levels of the first variable, and then bars are ordered consistently across the second variable within each cluster. 
+
 
 ## Use Doccument for the visualization
 
