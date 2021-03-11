@@ -32,6 +32,17 @@ the box plot leans more on the summarization of the data.
 
 To depict the relationship between two categorical variables, In a clustered bar chart, bars are organized into clusters based on levels of the first variable, and then bars are ordered consistently across the second variable within each cluster. 
 
+## Faceting
+
+n faceting, the data is divided into disjoint subsets, most often by different levels of a categorical variable. For each of these subsets of the data, the same plot type is rendered on other variables. Faceting is a way of comparing distributions or relationships across levels of additional variables, faceting is most useful in multivariate visualization.
+
+## Pointplot
+
+A point plot represents an estimate of central tendency for a numeric variable by the position of scatter plot points and provides some indication of the uncertainty around that estimate using error bars.
+
+## Adapted bar plot
+
+Histograms and bar charts were introduced in the previous lesson as depicting the distribution of numeric and categorical variables, respectively, with the height (or length) of bars indicating the number of data points that fell within each bar's range of values. These plots can be adapted for use as bivariate plots by, instead of indicating count by height, indicating a mean or other statistic on a second variable.
 
 ## Use Doccument for the visualization
 
@@ -46,5 +57,23 @@ https://pandas.pydata.org/pandas-docs/stable/user_guide/categorical.html
 boxplot: https://seaborn.pydata.org/generated/seaborn.boxplot.html
 
 axes object: https://matplotlib.org/stable/api/axes_api.html
+pivot(reshape data): https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.pivot.html
+
+## Libraries
+
+import numpy as np
+
+import pandas as pd
+
+import matplotlib.pyplot as plt
+
+import seaborn as sns
+
+%matplotlib inline
+
+## License
+
+
+
 
 
