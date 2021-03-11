@@ -1,5 +1,7 @@
 # Visualization
 # Introduction:
+Visualization is useful for quick assessing your data. fuel efficeincy and pokemon data used for visualization, data is available for download.
+clone: 
 ## Scatter plot
 If we want to inspect the relationship between two numeric variables, the standard choice of plot is the scatterplot.
 In a scatterplot, each data point is plotted individually as a point, its x-position corresponding to one feature value 
@@ -44,7 +46,7 @@ A point plot represents an estimate of central tendency for a numeric variable b
 
 Histograms and bar charts were introduced in the previous lesson as depicting the distribution of numeric and categorical variables, respectively, with the height (or length) of bars indicating the number of data points that fell within each bar's range of values. These plots can be adapted for use as bivariate plots by, instead of indicating count by height, indicating a mean or other statistic on a second variable.
 
-## Use Doccument for the visualization
+## Use Doccuments for the visualization
 
 Violine plot: https://seaborn.pydata.org/generated/seaborn.violinplot.html
 
@@ -72,6 +74,10 @@ import seaborn as sns
 %matplotlib inline
 
 ## License
+
+Sinha123456
+
+Licensed under the MIT License
 
 
 
