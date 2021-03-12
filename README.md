@@ -1,7 +1,9 @@
 # Visualization
 # Introduction:
 Visualization is useful for quick assessing your data. fuel efficeincy and pokemon data used for visualization, data is available for download.
-clone: 
+
+clone: https://github.com/Sinha123456/Visualization.git
+
 ## Scatter plot
 If we want to inspect the relationship between two numeric variables, the standard choice of plot is the scatterplot.
 In a scatterplot, each data point is plotted individually as a point, its x-position corresponding to one feature value 
@@ -59,7 +61,13 @@ https://pandas.pydata.org/pandas-docs/stable/user_guide/categorical.html
 boxplot: https://seaborn.pydata.org/generated/seaborn.boxplot.html
 
 axes object: https://matplotlib.org/stable/api/axes_api.html
+
 pivot(reshape data): https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.pivot.html
+
+pointplot https://seaborn.pydata.org/generated/seaborn.pointplot
+
+matplotlib usage guide https://matplotlib.org/stable/tutorials/introductory/usage.html
+
 
 ## Libraries
 
